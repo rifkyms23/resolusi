@@ -3,5 +3,4 @@ RESOLUSI BELAJAR
 - Belajar CSS
   *Menonton Youtube
 - Belajar HTML
-  *Di Kampus
 - Belajar Java Script
