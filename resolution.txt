@@ -4,6 +4,8 @@ RESOLUSI BELAJAR
   *Menonton Youtube
   *Harus Semangat
 - Belajar HTML
+  *Dasar
 - Belajar Java Script
+  *React
   *explore buku dll
-- Belajarrrrrr
+
